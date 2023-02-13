@@ -1,0 +1,5 @@
+discord.py
+pymongo
+requests
+asyncio
+bs4
