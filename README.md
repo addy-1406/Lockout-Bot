@@ -2,7 +2,8 @@
 <img src="https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/348642b7-22b7-44d8-afbc-d37b685ee12b" alt="Image" width="60%">
 
 This is a [Python](https://www.python.org/) based Discord bot which helps to organise tournaments and conduct 1v1 programming matches. The bot can handle scheduling and organisation of the fixtures.</br>
-We used the [Codeforces](https://codeforces.com/apiHelp) API for fetching questions and also check for submissions in real time while conducting the matches itself. We used  [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for web scraping to get the support of  [AtCoder](https://atcoder.jp/)  judge.
+We used the [Codeforces](https://codeforces.com/apiHelp) API for fetching questions and to check for submissions in real time while conducting the matches itself. We used  [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for web scraping and parsing to get the support of [AtCoder](https://atcoder.jp/)  judge. We also used MongoDB database to store the tournament fixtures and the standings after every round.
+
 We tried to create a user-friendly interface, allowing participants get to validated and compete in tournaments. All of these features were integrated with the help of [discord.py](https://discordpy.readthedocs.io/en/stable/) library.
 
 # Features
