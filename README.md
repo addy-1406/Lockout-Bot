@@ -15,7 +15,7 @@ We tried to create a user-friendly interface, allowing participants get to valid
 * <b>Show Participants: </b> Gives the list of participants in a particular tournament along with their [Codeforces](https://codeforces.com/) and [Atcoder](https://atcoder.jp/) profile's max ratings.
 * <b> Show Matches: </b> Provides user with the fixture of matches to be played in the ongoing tournament. This fixture is built by using the method of <b>Single Elimination Tournament</b> with byes given in case of an unsymetric number of participants in the particular round.
 
-The commands for all these features can be retrieved by executing the ```!help``` command.
+The commands for all these features can be retrieved by executing the  ```!help``` command.
 
 # How to Use:
 The Lockout Bot can be installed locally by running the below command.
